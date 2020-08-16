@@ -60,9 +60,9 @@ namespace Spidi.Droid
             {
                 if ((grantResults.Length == 1) && (grantResults[0] == (int)Permission.Granted))
                 {
-                    
+
                 }
-                else 
+                else
                 {
                     await App.Current.MainPage.DisplayAlert("Permissions", "Faliure to grant permission for Google Maps.", "OK");
                 }

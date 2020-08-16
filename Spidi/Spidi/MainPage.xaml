@@ -5,7 +5,7 @@
              x:Class="Spidi.MainPage">
 
     <StackLayout>
-        <maps:Map x:Name="myMap" MapType="Street" HasScrollEnabled="false" MoveToLastRegionOnLayoutChange="false">
+        <maps:Map x:Name="map" MapType="Street" HasScrollEnabled="true" MoveToLastRegionOnLayoutChange="false">
             <x:Arguments>
                 <maps:MapSpan>
                     <x:Arguments>

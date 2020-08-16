@@ -14,13 +14,11 @@ namespace Spidi
         public MainPage()
         {
             InitializeComponent();
+            map.IsShowingUser = true;
 
-            
         }
 
-        private async void SetCurrentLocation() {
-            //var position = await locator.GetPositionAsync(5000);
-            //Map.MoveToRegion(MapSpan.FromCenterAndRadius(new Position(50.0060899, 19.948572), Distance.FromMiles(1)));
-        }
     }
 }
+
+
