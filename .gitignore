@@ -9,7 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
-Spidi/Spidi.Android/Resources/values/key.xml
+Spidi/Spidi.Android/Properties/AssemblyInfo.cs
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs

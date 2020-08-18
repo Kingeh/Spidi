@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spidi.Android", "Spidi.Andr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spidi.iOS", "Spidi.iOS\Spidi.iOS.csproj", "{421E94DC-885A-4AD2-A2CA-C7DF7447B024}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spidi", "Spidi\Spidi.csproj", "{F0A7821C-4836-45DE-A049-C5A695818FDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spidi", "Spidi\Spidi.csproj", "{F0A7821C-4836-45DE-A049-C5A695818FDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -5,14 +5,14 @@
              x:Class="Spidi.MainPage">
 
     <StackLayout>
-        <maps:Map x:Name="map" MapType="Street" HasScrollEnabled="true" MoveToLastRegionOnLayoutChange="false">
+        <maps:Map x:Name="map">
             <x:Arguments>
                 <maps:MapSpan>
                     <x:Arguments>
                         <maps:Position>
                             <x:Arguments>
-                                <x:Double>50.0060899</x:Double>
-                                <x:Double>19.948572</x:Double>
+                                <x:Double>37.79752</x:Double>
+                                <x:Double>-122.40183</x:Double>
                             </x:Arguments>
                         </maps:Position>
                         <x:Double>0.01</x:Double>
@@ -22,5 +22,4 @@
             </x:Arguments>
         </maps:Map>
     </StackLayout>
-
 </ContentPage>
